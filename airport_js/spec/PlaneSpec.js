@@ -2,6 +2,8 @@
 
 var Plane = require('../src/plane.js')
 
+'use strict';
+
 describe('Plane',function(){
   var plane;
   var airport;
